@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- custom colors-->
+    <color name="search">#2196F3</color>
+    <color name="nearby">#C9379D</color>
+    <color name="chat">#FFC107</color>
+    <color name="profile">#3F51B5</color>
+
+    <!-- custom colors 20% -->
+    <color name="search_20">#332196F3</color>
+    <color name="nearby_20">#33C9379D</color>
+    <color name="chat_20">#33FFC107</color>
+    <color name="profile_20">#333F51B5</color>
+</resources>
